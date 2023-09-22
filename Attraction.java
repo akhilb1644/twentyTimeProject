@@ -20,17 +20,17 @@ class Attraction{
   }
 
   public void addInterest(String interest) {
-    attractionInterests[interestsRealLength];
+    attractionInterests[interestsRealLength] = interest;
     interestsRealLength += 1;
   }
 
   public void addSubInterest(String subInterest) {
-    attractionSubInterests[subInterestsRealLength];
+    attractionSubInterests[subInterestsRealLength] = subInterest;
     subInterestsRealLength += 1;
   }
 
   public void addState(String state) {
-    attractionStates[attractionStatesRealLength];
+    attractionStates[attractionStatesRealLength] = state;
     statesRealLength += 1;
   }
 }
