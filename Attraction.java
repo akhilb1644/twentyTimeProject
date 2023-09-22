@@ -7,15 +7,30 @@ class Attraction{
   */
   private String attractionName;
   private double[] attractionCoords = new double[2];
-  private byte coordsRealLength = 0;
   private String[] attractionInterests = new String[5];
   private byte interestsRealLength = 0;
   private String[] attractionSubInterests = new String[10];
   private byte subInterestsRealLength = 0;
   private String[] attractionStates = new String[4];
-  private byte attractionStatesRealLength = 0;
+  private byte statesRealLength = 0;
 
-  public Attraction(String name, double[] coords, String interest, String subInterest, String state) {
-    
+  public Attraction(String name, double[] coords) {
+    attractionName = name;
+    attractionCoords = coords;
+  }
+
+  public void addInterest(String interest) {
+    attractionInterests[interestsRealLength];
+    interestsRealLength += 1;
+  }
+
+  public void addSubInterest(String subInterest) {
+    attractionSubInterests[subInterestsRealLength];
+    subInterestsRealLength += 1;
+  }
+
+  public void addState(String state) {
+    attractionStates[attractionStatesRealLength];
+    statesRealLength += 1;
   }
 }
