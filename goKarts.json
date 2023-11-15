@@ -1,8 +1,12 @@
 {
   "Alabama":[""],
   "Alaska":[],
-  "Arizona":[],
+  "Arizona":["K1 Speed"],
   "Arkansas":[],
-  "California":[],
+  "California":["K1 Speed","K1 Speed","K1 Speed","K1 Speed","K1 Speed","K1 Speed","K1 Speed","K1 Speed","K1 Speed","K1 Speed","K1 Speed","K1 Speed","K1 Speed","K1 Speed"],
   "Colorado":["Overdrive Raceway","K1 Speed","Action Karting","SBR Motorsports Park","Podium Karting & Events","Grand Junction Motor Speedway"],
+  "Connecticut":["On Track Karting Wallingford","Supercharged Indoor Karting and Axe Throwing","RPM Raceway | Race Play More","R & B Sports World","MONZA World Class Karting at Foxwoods","Brass City Raceway & Axe Throwing"],
+  "Idaho":["K1 Speed"],
+  "New York":["RPM Raceway | Race Play More","RPM Raceway | Race Play More","RPM Raceway | Race Play More"],
+  "Oregon":["K1 Speed","K1 Speed"]
 }
