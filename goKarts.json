@@ -1,6 +1,6 @@
 {
-  "Alabama":[""],
-  "Alaska":[],
+  "Alabama":["Fastlane Raceway","Tallegada Grand Prix Raceway","Tallegada Short Track","Beaver Creek Speedway","Vigo Dirt Track"],
+  "Alaska":["Adventure Karts","Alaska Raceway Park","Extreme Fun Center","Extreme Fun Center","Aurora Fun Center","North Pole Speedway","Arctic Man Ski"],
   "Arizona":["K1 Speed"],
   "Arkansas":["K1 Speed"],
   "California":["K1 Speed","K1 Speed","K1 Speed","K1 Speed","K1 Speed","K1 Speed","K1 Speed","K1 Speed","K1 Speed","K1 Speed","K1 Speed","K1 Speed","K1 Speed","K1 Speed","CalSpeed Karting Center","Prairie City Kart Track","Bakersfield Kart Raceway","MB2 Raceway","MB2 Raceway",],
@@ -29,5 +29,5 @@
   "Texas":["K1 Speed","K1 Speed","K1 Speed","K1 Speed","K1 Speed","Incredible Pizza Company","Celebration Station","Dallas Karting Complex","COTA Karting","Rimrock Raceway","Track 21"],
   "Utah":["K1 Speed"],
   "Virginia":["K1 Speed"],
-  "Washington":["K1 Speed"]
+  "Washington":["K1 Speed","Extreme Fun Center"]
 }
