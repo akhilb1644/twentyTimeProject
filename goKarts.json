@@ -10,7 +10,7 @@
   "Florida":["K1 Speed","K1 Speed","K1 Speed","K1 Speed","K1 Speed","Celebration Station","Bushnell Motorsports Park","Orlando Kart Center","Andersen RacePark","Pro Karting Experience","Autobahn Indoor Speedway","Andretti Indoor Karting","Fun Spot America","Fun Spot America"],
   "Georgia":["K1 Speed","Atlanta Motorsports Park","Andretti Indoor Karting","Andretti Indoor Karting","Lanier Raceplex","Fun Spot America"]
   "Idaho":["K1 Speed","Fast Lane Indoor Cart Racing"],
-  "Illinois":["K1 Speed","K1 Speed","Kart Circuit Autobahn"],
+  "Illinois":["K1 Speed","K1 Speed","Kart Circuit Autobahn","Accelerate Indoor Speedway"],
   "Indiana":["K1 Speed"],
   "Kentucky":["Full Throttle Adrenaline Park","Full Throttle Adrenaline Park"],
   "Louisiana":["K1 Speed","Celebration Station"],
@@ -33,5 +33,6 @@
   "Texas":["K1 Speed","K1 Speed","K1 Speed","K1 Speed","K1 Speed","Incredible Pizza Company","Celebration Station","Dallas Karting Complex","COTA Karting","Rimrock Raceway","Track 21","Andretti Indoor Karting","Andretti Indoor Karting","Andretti Indoor Karting","Andretti Indoor Karting","Andretti Indoor Karting"],
   "Utah":["K1 Speed"],
   "Virginia":["K1 Speed","Autobahn Indoor Speedway","Autobahn Indoor Speedway"],
-  "Washington":["K1 Speed","Extreme Fun Center"]
+  "Washington":["K1 Speed","Extreme Fun Center"],
+  "Wisconsin":["Accelerate Indoor Speedway"]
 }
